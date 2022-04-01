@@ -47,10 +47,12 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+https://youtu.be/W0MxUHlZo6U - Used this video to help me with my implementation, before I realized that there were steps in the pre-work page. The video provided the basic foundation of the game, so I had to add the rest of what's required for this pre-work.
+
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+ 
+In my implementation, I had to figure out how to change the the button value from "start" to "stop". I figured it was easy, but it took me a while to figure it out. There were so many implementations to do this task. Another challenge was figuring out the logic of the game. How to when I should this function in my code, and learn how long should there be pause inbeween your input and the sound.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
