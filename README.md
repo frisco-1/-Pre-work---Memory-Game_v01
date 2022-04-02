@@ -6,8 +6,10 @@ Submitted by: Francisco Guerrero
 
 Time spent: 7 hours spent in total
 
-Link to project: https://wandering-time-heliotrope.glitch.me/ - Recommended Steps
-                 https://chatter-absorbed-bream.glitch.me/ - My implementation
+Link to project: 
+https://wandering-time-heliotrope.glitch.me/ - Recommended Steps
+                 
+https://chatter-absorbed-bream.glitch.me/ - My implementation
 
 ## Required Functionality
 
@@ -39,7 +41,6 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
 This gif represents my own implementation of the pre-work:
 ![MemoryGame_v02_myCode](https://user-images.githubusercontent.com/72370940/161355900-87dc0435-66b5-465a-9d44-8e9b50c8bff7.gif)
 
@@ -72,7 +73,7 @@ I've already refactor some of the functions into the ES6 syntax. I would continu
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+https://youtu.be/LYBxR5XzCIk
 
 
 ## License
