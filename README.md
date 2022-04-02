@@ -40,10 +40,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+This gif represents my own implementation of the pre-work:
 ![MemoryGame_v02_myCode](https://user-images.githubusercontent.com/72370940/161355900-87dc0435-66b5-465a-9d44-8e9b50c8bff7.gif)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+
+This gif represents the implementation from the pre-work page:
+![MemoryGame_v01_Pre_WorkCode](https://user-images.githubusercontent.com/72370940/161356404-e5c8b9da-5b7f-4313-bddd-9fcdb7cfbed6.gif)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -55,10 +57,16 @@ https://youtu.be/W0MxUHlZo6U - Used this video to help me with my implementation
 I initially started this project without knowing that the pre-work page provided steps for us. Regardless, this experience provided me with a learning experience on javascript. I had to figure out how to change the button value from "start" to "stop" in my implementation. I figured it was easy, but it took me a while to figure it out. There were so many implementations to do this task. Another challenge was figuring out the logic of the game. I needed to know when I should call a function in my code. Or how long of a pause I should have between the input and the gameplay. The pause required me to experiment with the "setTimeout" function. Another challenge was figuring out how to stop when clicking the stop button. I had to search up how to quit while executing a function, and again there were so many implementations I didn't know what would fit my code. When I was stuck at the moment, I checked the pre-work page and saw the solution. After seeing the steps from the pre-work page. I realize that a way to do that was to call a boolean to determine if it's true to execute or not.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+While website builders are out there, how do you persuade someone to make a website from scratch?
+
+What is the average time someone can learn to become a full-stack developer? 
+
+What is the sufficient amount of knowledge should someone get for looking for a front-end only job?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+I've already refactor some of the functions into the ES6 syntax. I would continue more shorthand code into the project. I would like to put in one the optional functions if had extra time.
 
 
 
