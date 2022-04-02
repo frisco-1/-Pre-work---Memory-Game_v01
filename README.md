@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
+![MemoryGame_v02_myCode](https://user-images.githubusercontent.com/72370940/161355900-87dc0435-66b5-465a-9d44-8e9b50c8bff7.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
