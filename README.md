@@ -11,6 +11,9 @@ https://wandering-time-heliotrope.glitch.me/ - Recommended Steps
                  
 https://chatter-absorbed-bream.glitch.me/ - My implementation
 
+Github repo for my implementation:
+https://github.com/frisco-1/Pre-Work_MyCode
+
 ## Required Functionality
 
 The following **required** functionality is complete:
